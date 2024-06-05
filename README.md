@@ -1,14 +1,11 @@
-Molleigh Hughes
-MSU Data Analysis Bootcamp 
-Module 1 Challenge: Questions 
+# MSU Data Analysis Bootcamp 
+## Module 1 Challenge: Questions 
 
-Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
-	
-(1) Based on the dataset, I can conclude that the three most successful crowdfunding campaigns come from theater, music, and film & video categories; however, theater, music, and film & video are also the most failed and most canceled categories. Therefore, success is not guaranteed for new crowdfunding campaigns based solely on selecting a campaign within one of these three (parent) categories. 
-    
-(2) Based on the dataset, I can conclude that for each of the seven countries listed, the sub-category of ‘plays’ typically has the most successes and the most failures within the sub-categories, regardless of which country is being examined. This commonality is especially interesting when considering the varying sizes of these nations, varying languages, varying educational standards, varying political experiences, etc. 
-    
-(3) Based on the dataset, I can conclude that the most successful time of year for crowdfunding campaigns is in July. In addition, the relationship between the rate of failed campaigns and the rate of canceled campaigns seem to be the most correlated relationship. This suggests that similar factors may be affecting the likelihood of a campaign’s failure or cancellation.  
+### Excel Challange Analytic Report 
+1. Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+	1.  Based on the dataset, I can conclude that the three most successful crowdfunding campaigns come from theater, music, and film & video categories; however, theater, music, and film & video are also the most failed and most canceled categories. Therefore, success is not guaranteed for new crowdfunding campaigns based solely on selecting a campaign within one of these three (parent) categories. 
+    1. Based on the dataset, I can conclude that for each of the seven countries listed, the sub-category of ‘plays’ typically has the most successes and the most failures within the sub-categories, regardless of which country is being examined. This commonality is especially interesting when considering the varying sizes of these nations, varying languages, varying educational standards, varying political experiences, etc. 
+    1. Based on the dataset, I can conclude that the most successful time of year for crowdfunding campaigns is in July. In addition, the relationship between the rate of failed campaigns and the rate of canceled campaigns seem to be the most correlated relationship. This suggests that similar factors may be affecting the likelihood of a campaign’s failure or cancellation.  
 
 What are some limitations of this dataset?
 
