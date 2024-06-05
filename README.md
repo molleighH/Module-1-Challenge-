@@ -1,5 +1,5 @@
 # MSU Data Analysis Bootcamp 
-## Module 1 Challenge: Questions 
+## Module 1 Challenge: Microsoft Excel  
 
 ### Excel Challange Analytic Report 
 1. Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
