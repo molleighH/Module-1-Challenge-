@@ -81,7 +81,7 @@ Crowdfunding platforms like Kickstarter and Indiegogo have grown significantly i
 - **Time-Series Analysis**: A deeper analysis of trends over time could reveal the impact of seasonal factors on campaign outcomes.
 - **Sentiment Analysis**: Analyzing the tone and content of campaign descriptions and updates could predict backer engagement and success.
 
-### Excel Challange Analytic Report 
+### Analytic Report 
 **1. Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?**\
     1. Based on the dataset, I can conclude that the three most successful crowdfunding campaigns come from theater, music, and film & video categories; however, theater, music, and film & video are also the most failed and most canceled categories. Therefore, success is not guaranteed for new crowdfunding campaigns based solely on selecting a campaign within one of these three (parent) categories. 
     2. Based on the dataset, I can conclude that for each of the seven countries listed, the sub-category of ‘plays’ typically has the most successes and the most failures within the sub-categories, regardless of which country is being examined. This commonality is especially interesting when considering the varying sizes of these nations, varying languages, varying educational standards, varying political experiences, etc. 
