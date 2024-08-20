@@ -82,23 +82,23 @@ Crowdfunding platforms like Kickstarter and Indiegogo have grown significantly i
 - **Sentiment Analysis**: Analyzing the tone and content of campaign descriptions and updates could predict backer engagement and success.
 
 ### Analytic Report 
-**1. Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?**\
-    1. Based on the dataset, I can conclude that the three most successful crowdfunding campaigns come from theater, music, and film & video categories; however, theater, music, and film & video are also the most failed and most canceled categories. Therefore, success is not guaranteed for new crowdfunding campaigns based solely on selecting a campaign within one of these three (parent) categories. 
-    2. Based on the dataset, I can conclude that for each of the seven countries listed, the sub-category of ‘plays’ typically has the most successes and the most failures within the sub-categories, regardless of which country is being examined. This commonality is especially interesting when considering the varying sizes of these nations, varying languages, varying educational standards, varying political experiences, etc. 
-    3. Based on the dataset, I can conclude that the most successful time of year for crowdfunding campaigns is in July. In addition, the relationship between the rate of failed campaigns and the rate of canceled campaigns seem to be the most correlated relationship. This suggests that similar factors may be affecting the likelihood of a campaign’s failure or cancellation. 
 
-**2. What are some limitations of this dataset?**\
-    1. There are various limitations that can affect the quality and the capabilities of a dataset; for example, this dataset may suffer from sampling bias, which suggests that the data may not be collected randomly or that the data is built with biased samples that may not truly represent the population. These complications may hinder the accuracy or the effectiveness of the dataset.
-    2. In addition, any outliers may skew the results, therefore, sabotaging the analysis of the dataset. As a result, any insights or deductions pulled from the dataset may be misleading or inaccurate.
-    3. Finally, this dataset may be prone to selection bias; for example, based on the names and descriptions in ‘blurbs’, there is a possibility that these values were carefully chosen based on the specific information they provide.
-    4. Therefore, the dataset may be biased, thus narrowing and distorting any conclusions the dataset may generate.In conclusion, there are numerous limitations that may exist in a dataset; sampling bias, outliers, and/or selection bias may be some of the more likely limitations of this dataset, thus skewing any analysis.
- 
- **3. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?**\
-    1. Another valuable way to analyze this dataset is to organize the highest ‘percent funded’ by country, and then use the ‘blurbs’ to understand which organizations or groups typically exceed their funding ‘goals’. This table/graph would make it easier to deduce which groups are most likely to exceed their funding goals, in each country. Thus, this analysis would suggest which type of groups/organizations, in each country, are most likely to succeed in their crowdfunding campaign. Who has the best chance?
-  
-**4. Use your data to determine whether the mean or the median better summarizes the data.**\
-    1. In this case, the data is more accurately represented by the mean, because there is such a range between the data points. The median for both the successful and failed campaigns falls far below the actual average; therefore, the mean is more instructive with this data.
+**1. Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?**
+   1. Based on the dataset, the three most successful crowdfunding campaigns come from the Theater, Music, and Film & Video categories. However, these categories are also the most failed and most canceled. Therefore, success is not guaranteed based solely on selecting a campaign within one of these three categories.
+   2. For each of the seven countries listed, the sub-category of ‘Plays’ typically has the most successes and the most failures within the sub-categories, regardless of the country. This commonality is intriguing considering the varying sizes of these nations, languages, educational standards, political experiences, etc.
+   3. The most successful time of year for crowdfunding campaigns is July. Additionally, there is a strong correlation between the rate of failed campaigns and the rate of canceled campaigns, suggesting that similar factors may be affecting the likelihood of a campaign's failure or cancellation.
 
-**5. Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?**\
-    1. There is more variability with the successful campaigns than the unsuccessful; perhaps this does make sense, because it seems likely that a more successful campaign would have more backers. The juxtaposition of the variance and standard deviation of both campaigns illustrates this variability.
+**2. What are some limitations of this dataset?**
+   1. The dataset may suffer from **sampling bias**, meaning that the data might not have been collected randomly or could be built with biased samples that do not truly represent the population, hindering accuracy.
+   2. **Outliers** may skew the results, potentially leading to misleading or inaccurate analysis.
+   3. The dataset could be prone to **selection bias**; for instance, the names and descriptions in ‘blurbs’ might have been carefully chosen based on specific information they provide, thus distorting any conclusions.
+   4. In summary, sampling bias, outliers, and selection bias are some of the likely limitations of this dataset, potentially skewing any analysis.
 
+**3. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?**
+   1. A valuable analysis could involve organizing the highest ‘percent funded’ by country and using the ‘blurbs’ to identify which organizations or groups typically exceed their funding goals. This table/graph would help determine which types of groups/organizations in each country are most likely to succeed in their crowdfunding campaigns.
+
+**4. Use your data to determine whether the mean or the median better summarizes the data.**
+   1. In this case, the **mean** better represents the data because of the wide range between data points. The median for both successful and failed campaigns falls far below the actual average, making the mean more instructive for this dataset.
+
+**5. Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?**
+   1. There is more variability with the successful campaigns than the unsuccessful ones. This makes sense because a more successful campaign is likely to have more backers, which is reflected in the higher variance and standard deviation of successful campaigns compared to unsuccessful ones.
