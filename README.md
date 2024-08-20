@@ -16,7 +16,7 @@ This project involves analyzing a dataset of 1,000 crowdfunding projects to unco
   - [Statistical Analysis of Backers](#statistical-analysis-of-backers)
 - [Key Findings](#key-findings)
 - [Limitations and Recommendations](#limitations-and-recommendations)
-- [Getting Started](#getting-started)
+- [Excel Challange Analytic Report ](#excel-challenge-analytic-report)
 
 ## Project Overview
 
